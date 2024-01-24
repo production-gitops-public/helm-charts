@@ -18,3 +18,5 @@ To install the <chart-name> chart:
 To uninstall the chart:
 
     helm delete my-<chart-name>
+
+This is for use with the production gitops I am developing.
